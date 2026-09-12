@@ -1,0 +1,12 @@
+[2026-09-09 08:00:01] [INFO] System startup complete
+[2026-09-09 08:00:05] [OK] Disk usage on / is 45%
+[2026-09-09 08:00:05] [OK] Disk usage on /tmp is 12%
+[2026-09-09 09:15:22] [ALERT] Disk usage on / is 85% (threshold: 80%)
+[2026-09-09 09:15:22] [INFO] Disk check completed with warnings
+[2026-09-09 10:30:11] [OK] Disk usage on / is 78%
+[2026-09-09 11:45:00] [ERROR] Could not write to /var/log/app.log
+[2026-09-09 12:00:01] [WARN] Memory usage above 70%
+[2026-09-09 13:10:55] [ALERT] Disk usage on /tmp is 91% (threshold: 80%)
+[2026-09-09 14:00:01] [INFO] Scheduled backup started
+[2026-09-09 14:05:33] [OK] Backup completed successfully
+[2026-09-09 15:00:00] [ERROR] Database connection timeout
